@@ -34,6 +34,7 @@ The core functionality focuses on [key features, e.g., "CRUD operations for user
 | (e.g., React)  |     | (ASP.NET)    |     |  (e.g., SQL)    |
 |                |     |              |     |                 |
 +----------------+     +--------------+     +-----------------+
+```
 
 ## Endpoints
 
