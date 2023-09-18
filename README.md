@@ -42,7 +42,7 @@ The core functionality focuses on CRUD operations for user data, authentication 
 +----------------+     +--------------+     +-----------------+
 |                |     |              |     |                 |
 |   Frontend     +----->   Web API    +----->   Database      |
-| (e.g., React)  |     | (ASP.NET)    |     |  (e.g., SQL)    |
+| (Swagger)      |     | (ASP.NET)    |     |  (PostgreSQL)   |
 |                |     |              |     |                 |
 +----------------+     +--------------+     +-----------------+
 ```
